@@ -18,9 +18,9 @@ Can we predict the home prices in 2022 using past data?”
 
 
 Which tasks are dependent on other tasks:
-Machine Learning, Power BI, and SQL Database are all reliant on a working Pipeline, once SQL database is normalized, we can delegate tasks, and all of this is dependent on our initial EDA and Cleaning of our data
+-Machine Learning, Power BI, and SQL Database are all reliant on a working Pipeline, once SQL database is normalized, we can delegate tasks, and all of this is dependent on our initial EDA and Cleaning of our data
 What order the tasks must be completed in.
-Acquire Data (CSV/API), insert into Blob, Clean Data, manage databricks, create pipeline, use Kafka to create a producer and consumer, create a SQL database, use ML and PowerBI to answer our questions and show meaningful conclusions with our data.
+-Acquire Data (CSV/API), insert into Blob, Clean Data, manage databricks, create pipeline, use Kafka to create a producer and consumer, create a SQL database, use ML and PowerBI to answer our questions and show meaningful conclusions with our data.
 How your team will communicate.
 Our team is communicating through a shared github repo, a shared google docs file, and microsoft teams. 
 Planned completion dates for each task.
