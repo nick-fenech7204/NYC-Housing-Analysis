@@ -17,13 +17,13 @@ Our group's capstone project will be focused on investigating NYC housing prices
 * Can we predict the home prices in 2022 using past data?”
 
 
-Which tasks are dependent on other tasks:
+### Which tasks are dependent on other tasks:
 * Machine Learning, Power BI, and SQL Database are all reliant on a working Pipeline, once SQL database is normalized, we can delegate tasks, and all of this is dependent on our initial EDA and Cleaning of our data
-What order the tasks must be completed in.
+### What order the tasks must be completed in.
 * Acquire Data (CSV/API), insert into Blob, Clean Data, manage databricks, create pipeline, use Kafka to create a producer and consumer, create a SQL database, use ML and PowerBI to answer our questions and show meaningful conclusions with our data.
-How your team will communicate.
+### How your team will communicate.
 * Our team is communicating through a shared github repo, a shared google docs file, and microsoft teams. 
-Planned completion dates for each task.
+### Planned completion dates for each task.
 * May 4th - look at different data sets and start thinking about which one we want to work with
 * May 5th - Find a data set and start doing some EDA
 * May 8th - Pitch our data set and await approval
@@ -36,7 +36,7 @@ Planned completion dates for each task.
 * May 19 - Created our visuals through PowerBI and general housekeeping of our project before turning in
 
 
-Who is doing what task.
+### Who is doing what task.
 * EDA - Will, Nick, Prateek
 * Secondary EDA - Will, Nick, Prateek
 * Cleaning - Will, Prateek
