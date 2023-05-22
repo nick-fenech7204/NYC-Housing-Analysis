@@ -1,2 +1,4 @@
-SQLusername = 'tripleI'
-SQLpassword = 'PA55W0RD!'
+# Please Configure to your own SQL database
+# Please enter your information below:
+  Username = 
+  Password = 
