@@ -26,7 +26,7 @@ This repository contains the major steps of our project from beginning to end. T
 * Contains information from federal to local municipality levels
 * https://www.census.gov/data/developers/data-sets/acs-5year.html
 
-### ETL Process: 
+### ETL Process
 * Create a Pipeline in Azure Data Factory
 * Create two Blob Containers, one for raw and one for long term storage
 * Pipeline will trigger when a new file is uploaded into the raw blob container
@@ -37,7 +37,7 @@ This repository contains the major steps of our project from beginning to end. T
 * From there, Databricks Notebooks will conduct transformation processes
 * Once Transformation has occurred, both datasets will be loaded into SQL denormalized
 
-### Technologies Used:
+### Technologies Used
 * Microsoft Azure 
 * Databricks
 * Kafka
@@ -46,7 +46,7 @@ This repository contains the major steps of our project from beginning to end. T
 * Machine Learning Algorithm 
 * Python and PySpark 
 
-### ML Used:
+### Machine Learning
 * XGboost is one of the most popular machine learning algorithms used today
 * Trained our model on data from years 2003-2017 and tested it on data from years 2018-2022
 * Used a variety af factors to attempt to predict the sale price of properties
@@ -56,14 +56,14 @@ This repository contains the major steps of our project from beginning to end. T
 
 ![MicrosoftTeams-image](https://github.com/prateekbardhan/Illidan/assets/128511132/4e7a8c3e-ad2f-47aa-88b1-2bbcf0415a67)
 
-### Conclusions Drawn:
+### Conclusions Drawn
 * Over the past 20 years, housing prices have witnessed a significant increase, nearly tripling in value
 * A crucial determinant of these prices is the neighborhood in which the properties are located, as determined by our machine learning algorithm
 * The data also indicates a trend of increasing rental payments, suggesting that a growing number of individuals are having to spend more on rent, and less and saving for affordable homes
 * Additionally, the majority of home value is found to be owned by middle-aged individuals, highlighting their significant stake in the real estate market
 * So in conclusion, our EDA/visuals/and machine learning collectively sheds light on the dynamic nature of housing prices, the impact of neighborhood factors, rising rental demands, and the substantial ownership of property by age group
 
-### Example Charts: 
+### Visualizations
 
 ![Screenshot (119)](https://github.com/prateekbardhan/Illidan/assets/128511132/c825d00e-a492-49c1-ab52-0caf3e3580cc)
 
