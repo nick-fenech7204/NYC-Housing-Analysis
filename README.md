@@ -13,11 +13,11 @@ Our group's capstone project will be focused on investigating NYC housing prices
 * Can we predict the home prices in 2022 using past data?”
 
 ### What Datasets are being used?
-# NYC Open Data
+##### NYC Open Data
 * Contains data from the past 20 years of housing sales by borough
 * Also shows many useful descriptive factors about each property
 * https://www.nyc.gov/site/finance/taxes/property-annualized-sales-update.page
-# Census Bureau
+##### Census Bureau
 * American Community Survey 5-Year Data contains 60 month aggregations
 * Survey collects information on housing attributes, transportation, demographics, and economic factors
 * Contains information from federal to local municipality levels
