@@ -14,7 +14,9 @@ Our group's capstone project will be focused on investigating NYC housing prices
 
 ### What Datasets are being used?
 * NYC Open Data
+* https://www.nyc.gov/site/finance/taxes/property-annualized-sales-update.page
 * Census Bureau
+* https://www.census.gov/data/developers/data-sets/acs-5year.html
 
 ### ETL Process: 
 * Create a Pipeline in Azure Data Factory
