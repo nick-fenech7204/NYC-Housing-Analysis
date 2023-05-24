@@ -1,7 +1,7 @@
 # New York City Housing Prices
 Our group's capstone project will be focused on investigating NYC housing prices and how different factors may contribute/impact prices. We also want to use machine learning techniques to see if we can predict prices in the year following our data (2022). We plan on using NYC Open Data to pull home details as well as an API call to the Census Bureau to combine our NYC housing data with other attributes such as rental/ownership/income/ages/etc to compare our main data set to supplementary information. The aforementioned data can be found at https://www.nyc.gov/site/finance/taxes/property-annualized-sales-update.page.
 
-# Our GitHb Repository
+# Our GitHub Repository
 This repository contains the major steps of our project from beginning to end. There is a folder with some of the data that we used as well as a folder containing exploratory data analysis to make sure that the datasets in question were usable and could be analyzed extensively. There is a folder where our group planned for the future steps of the project such as the ETL phase and the ERD diagram for our SQL database. One can also view our Databricks notebooks in which we performed our ETL steps to prepare the data for analysis. This allowed us to perform machine learning and create visualizations in Power BI before combining everything into a final presentation. All of these files can be accessed through their respective folders. Happy viewing!
 
 # Technical Report
