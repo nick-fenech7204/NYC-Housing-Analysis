@@ -1,7 +1,7 @@
 # New York City Housing Prices
 Our group's capstone project will be focused on investigating NYC housing prices and how different factors may contribute/impact prices. We also want to use machine learning techniques to see if we can predict prices in the year following our data (2022). We plan on using NYC Open Data to pull home details as well as an API call to the Census Bureau to combine our NYC housing data with other attributes such as rental/ownership/income/ages/etc to compare our main data set to supplementary information. The aforementioned data can be found at https://www.nyc.gov/site/finance/taxes/property-annualized-sales-update.page.
 
-##Technical Report
+# Technical Report
 
 ###  What Questions are Being asked?
 * How do home costs change throughout NYC and its boroughs? 
@@ -37,7 +37,7 @@ Our group's capstone project will be focused on investigating NYC housing prices
 * Python and PySpark 
 
 ### ML Used:
-XGboost
+* XGboost
 
 ### Conclusions Drawn:
 * Over the past 20 years, housing prices have witnessed a significant increase, nearly tripling in value. A crucial determinant of these prices is the neighborhood in which the properties are located, as determined by our machine learning algorithm. The data also indicates a trend of increasing rental payments, suggesting that a growing number of individuals are having to spend more on rent, and less and saving for affordable homes. Additionally, the majority of home value is found to be owned by middle-aged individuals, highlighting their significant stake in the real estate market. So in conclusion, our EDA/visuals/and machine learning collectively sheds light on the dynamic nature of housing prices, the impact of neighborhood factors, rising rental demands, and the substantial ownership of property by age group.
