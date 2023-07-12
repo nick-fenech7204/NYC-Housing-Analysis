@@ -1,4 +1,4 @@
-# New York City Housing Prices
+# New York City Housing Prices Analysis
 Our group's capstone project focused on investigating New York City housing prices and how different factors impacted prices. We also used machine learning techniques to attempt to predict prices in the later years of the dataset. We used NYC Open Data to access property details as well as an API call to the Census Bureau. This was done to combine the NYC housing data with other attributes such as rental/ownership/income/ages/etc and compare our main data set to supplementary information. The aforementioned NYC Open Data can be found at https://www.nyc.gov/site/finance/taxes/property-annualized-sales-update.page.
 
 ## Our GitHub Repository
