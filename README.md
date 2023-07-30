@@ -56,18 +56,19 @@ This repository contains the major steps of our project from beginning to end. T
 
 ![MicrosoftTeams-image](https://github.com/prateekbardhan/Illidan/assets/128511132/4e7a8c3e-ad2f-47aa-88b1-2bbcf0415a67)
 
+
+### Dashboord
+
+
+![Dashboard](PowerBI/Illidan_PowerBI_Report.jpg)
+
+
 ### Conclusions Drawn
 * Over the past 20 years housing prices have witnessed a significant increase, nearly tripling in value
 * A crucial determinant of these prices is the neighborhood in which the properties are located, as determined by our machine learning algorithm
 * The data also indicates a trend of increasing rental payments, suggesting that a growing number of individuals are having to spend more on rent, and less on saving for affordable homes
 * Additionally, the majority of home value is found to be owned by middle-aged individuals, highlighting their significant stake in the real estate market
 * In conclusion, our EDA/visuals/and machine learning collectively shed light on the dynamic nature of housing prices, the impact of neighborhood factors, rising rental demands, and the substantial ownership of property by age group
-
-### Visualizations
-
-![Screenshot (119)](https://github.com/prateekbardhan/Illidan/assets/128511132/c825d00e-a492-49c1-ab52-0caf3e3580cc)
-
-![Screenshot (120)](https://github.com/prateekbardhan/Illidan/assets/128511132/9692fdca-d390-41d9-9faa-7c55f18f65b6)
 
 
 
